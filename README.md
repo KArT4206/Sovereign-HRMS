@@ -23,7 +23,10 @@ An enterprise, multi-tenant Human Resource Management System frontend built for 
 - **Enterprise data tables**: search, multi-filter, sort, column chooser, saved views, bulk actions, CSV export, pagination, mobile card layout.
 - **Every module** has empty, loading, error and permission-denied states (switchable from a "State preview" control).
 - **⌘K command palette** over pages, employees and actions; light and dark themes; responsive down to phone width.
-- 164 routes, all rendered and checked for errors.
+- **Every module page is tailored**: Table, Board (drag-and-drop kanban), Calendar and Cards views with a sensible default per module (e.g. helpdesk and onboarding open as boards, interviews and holidays as calendars, benefits and courses as cards), live insight panels computed from the module's data, and detail drawers with checklists (onboarding/offboarding), activity and comments.
+- Paintable two-week **shift roster** with a night-shift rule check.
+- Fast first load: route-level code splitting and tree-shaken icons (~105 KB gzipped initial bundle).
+- 163 routes, all rendered and checked for errors.
 
 ## Screenshots
 | | |

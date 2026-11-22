@@ -2,7 +2,7 @@
 
 > Source code lives in the private repository `Sovereign-HRMS-code`. This repository holds the overview, screenshots and documentation.
 
-**Live interactive demo: https://sovereign-hrms.vercel.app** (fictional data only)
+**Live interactive demo: https://sovereign-hrms-demo.vercel.app** (fictional data only)
 
 An enterprise, multi-tenant Human Resource Management System frontend built for 2,000+ employee tenants, multiple legal entities and maker/checker payroll — with a no-code Developer Control Centre that governs the whole platform.
 

@@ -1,5 +1,12 @@
 # Sovereign HRMS
 
+[![Project site](https://img.shields.io/badge/site-live-brightgreen)](https://sovereign-hrms-demo.vercel.app)
+![hrms](https://img.shields.io/badge/hrms-informational)
+![multi-tenant](https://img.shields.io/badge/multi--tenant-informational)
+![payroll](https://img.shields.io/badge/payroll-informational)
+![react](https://img.shields.io/badge/react-informational)
+![Last commit](https://img.shields.io/github/last-commit/KArT4206/Sovereign-HRMS)
+
 > Source code lives in the private repository `Sovereign-HRMS-code`. This repository holds the overview, screenshots and documentation.
 
 **Live interactive demo: https://sovereign-hrms-demo.vercel.app** (fictional data only)
